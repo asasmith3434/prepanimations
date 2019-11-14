@@ -1,1 +1,22 @@
 
+body{
+    background-color: aqua;
+        
+    
+}
+p{ 
+    text-align: center;
+     background-color: #80ced6;
+    width: 300px;
+    padding: 10px;
+    margin:auto;
+    font-size: 30px;
+}
+h1{ font-fmaily: "Times New Roman", Times, serif; 
+    text-align:center;
+    background-color: cyan;
+    width: 100px;
+    text-color: white;
+    margin: auto;
+    text-size: 50px;
+}
