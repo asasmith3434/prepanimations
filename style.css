@@ -13,12 +13,12 @@ body{
     
 }
 p{ 
-    text-align: center;
-     background-color: #80ced6;
+   font-family: "Times New Roman", Times, serif;
+    text-align:center;
     background-color: aquamarine;
   width: 300px;
-  border: 15px;
+  border: 15px solid green;
   padding: 50px;
-  margin: auto;
+  margin: auto; 
     
 }
