@@ -15,4 +15,10 @@ body{
 p{ 
     text-align: center;
      background-color: #80ced6;
+    background-color: aquamarine;
+  width: 300px;
+  border: 15px;
+  padding: 50px;
+  margin: auto;
+    
 }
